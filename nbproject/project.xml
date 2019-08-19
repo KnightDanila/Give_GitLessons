@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.web.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
+            <name>GitLessons</name>
+        </data>
+        <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1">
+            <library name="reveal.js" version="3.8.0">
+                <file localPath="js/libs/reveal.js/css/print/paper.css" path="css/print/paper.css"/>
+                <file localPath="js/libs/reveal.js/css/print/paper.min.css" path="css/print/paper.min.css"/>
+                <file localPath="js/libs/reveal.js/css/print/paper.min.css.map" path="css/print/paper.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/print/pdf.css" path="css/print/pdf.css"/>
+                <file localPath="js/libs/reveal.js/css/print/pdf.min.css" path="css/print/pdf.min.css"/>
+                <file localPath="js/libs/reveal.js/css/print/pdf.min.css.map" path="css/print/pdf.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/reset.css" path="css/reset.css"/>
+                <file localPath="js/libs/reveal.js/css/reset.min.css" path="css/reset.min.css"/>
+                <file localPath="js/libs/reveal.js/css/reset.min.css.map" path="css/reset.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/reveal.css" path="css/reveal.css"/>
+                <file localPath="js/libs/reveal.js/css/reveal.min.css" path="css/reveal.min.css"/>
+                <file localPath="js/libs/reveal.js/css/reveal.min.css.map" path="css/reveal.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/beige.css" path="css/theme/beige.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/beige.min.css" path="css/theme/beige.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/beige.min.css.map" path="css/theme/beige.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/black.css" path="css/theme/black.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/black.min.css" path="css/theme/black.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/black.min.css.map" path="css/theme/black.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/blood.css" path="css/theme/blood.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/blood.min.css" path="css/theme/blood.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/blood.min.css.map" path="css/theme/blood.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/league.css" path="css/theme/league.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/league.min.css" path="css/theme/league.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/league.min.css.map" path="css/theme/league.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/moon.css" path="css/theme/moon.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/moon.min.css" path="css/theme/moon.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/moon.min.css.map" path="css/theme/moon.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/night.css" path="css/theme/night.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/night.min.css" path="css/theme/night.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/night.min.css.map" path="css/theme/night.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/serif.css" path="css/theme/serif.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/serif.min.css" path="css/theme/serif.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/serif.min.css.map" path="css/theme/serif.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/simple.css" path="css/theme/simple.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/simple.min.css" path="css/theme/simple.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/simple.min.css.map" path="css/theme/simple.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/sky.css" path="css/theme/sky.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/sky.min.css" path="css/theme/sky.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/sky.min.css.map" path="css/theme/sky.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/solarized.css" path="css/theme/solarized.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/solarized.min.css" path="css/theme/solarized.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/solarized.min.css.map" path="css/theme/solarized.min.css.map"/>
+                <file localPath="js/libs/reveal.js/css/theme/white.css" path="css/theme/white.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/white.min.css" path="css/theme/white.min.css"/>
+                <file localPath="js/libs/reveal.js/css/theme/white.min.css.map" path="css/theme/white.min.css.map"/>
+                <file localPath="js/libs/reveal.js/js/reveal.js" path="js/reveal.js"/>
+                <file localPath="js/libs/reveal.js/js/reveal.min.js" path="js/reveal.min.js"/>
+                <file localPath="js/libs/reveal.js/js/reveal.min.js.map" path="js/reveal.min.js.map"/>
+                <file localPath="js/libs/reveal.js/lib/css/monokai.css" path="lib/css/monokai.css"/>
+                <file localPath="js/libs/reveal.js/lib/css/monokai.min.css" path="lib/css/monokai.min.css"/>
+                <file localPath="js/libs/reveal.js/lib/css/monokai.min.css.map" path="lib/css/monokai.min.css.map"/>
+                <file localPath="js/libs/reveal.js/lib/css/zenburn.css" path="lib/css/zenburn.css"/>
+                <file localPath="js/libs/reveal.js/lib/css/zenburn.min.css" path="lib/css/zenburn.min.css"/>
+                <file localPath="js/libs/reveal.js/lib/css/zenburn.min.css.map" path="lib/css/zenburn.min.css.map"/>
+                <file localPath="js/libs/reveal.js/lib/font/league-gothic/league-gothic.css" path="lib/font/league-gothic/league-gothic.css"/>
+                <file localPath="js/libs/reveal.js/lib/font/league-gothic/league-gothic.eot" path="lib/font/league-gothic/league-gothic.eot"/>
+                <file localPath="js/libs/reveal.js/lib/font/league-gothic/league-gothic.min.css" path="lib/font/league-gothic/league-gothic.min.css"/>
+                <file localPath="js/libs/reveal.js/lib/font/league-gothic/league-gothic.min.css.map" path="lib/font/league-gothic/league-gothic.min.css.map"/>
+                <file localPath="js/libs/reveal.js/lib/font/league-gothic/league-gothic.ttf" path="lib/font/league-gothic/league-gothic.ttf"/>
+                <file localPath="js/libs/reveal.js/lib/font/league-gothic/league-gothic.woff" path="lib/font/league-gothic/league-gothic.woff"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.eot" path="lib/font/source-sans-pro/source-sans-pro-italic.eot"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.ttf" path="lib/font/source-sans-pro/source-sans-pro-italic.ttf"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.woff" path="lib/font/source-sans-pro/source-sans-pro-italic.woff"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.eot" path="lib/font/source-sans-pro/source-sans-pro-regular.eot"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.ttf" path="lib/font/source-sans-pro/source-sans-pro-regular.ttf"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.woff" path="lib/font/source-sans-pro/source-sans-pro-regular.woff"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.eot" path="lib/font/source-sans-pro/source-sans-pro-semibold.eot"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" path="lib/font/source-sans-pro/source-sans-pro-semibold.ttf"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.woff" path="lib/font/source-sans-pro/source-sans-pro-semibold.woff"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" path="lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" path="lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" path="lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro.css" path="lib/font/source-sans-pro/source-sans-pro.css"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro.min.css" path="lib/font/source-sans-pro/source-sans-pro.min.css"/>
+                <file localPath="js/libs/reveal.js/lib/font/source-sans-pro/source-sans-pro.min.css.map" path="lib/font/source-sans-pro/source-sans-pro.min.css.map"/>
+                <file localPath="js/libs/reveal.js/lib/js/html5shiv.js" path="lib/js/html5shiv.js"/>
+                <file localPath="js/libs/reveal.js/lib/js/promise.js" path="lib/js/promise.js"/>
+                <file localPath="js/libs/reveal.js/plugin/highlight/highlight.js" path="plugin/highlight/highlight.js"/>
+                <file localPath="js/libs/reveal.js/plugin/highlight/highlight.min.js" path="plugin/highlight/highlight.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/highlight/highlight.min.js.map" path="plugin/highlight/highlight.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/markdown/markdown.js" path="plugin/markdown/markdown.js"/>
+                <file localPath="js/libs/reveal.js/plugin/markdown/markdown.min.js" path="plugin/markdown/markdown.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/markdown/markdown.min.js.map" path="plugin/markdown/markdown.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/markdown/marked.js" path="plugin/markdown/marked.js"/>
+                <file localPath="js/libs/reveal.js/plugin/math/math.js" path="plugin/math/math.js"/>
+                <file localPath="js/libs/reveal.js/plugin/math/math.min.js" path="plugin/math/math.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/math/math.min.js.map" path="plugin/math/math.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/client.js" path="plugin/multiplex/client.js"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/client.min.js" path="plugin/multiplex/client.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/client.min.js.map" path="plugin/multiplex/client.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/index.js" path="plugin/multiplex/index.js"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/index.min.js" path="plugin/multiplex/index.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/index.min.js.map" path="plugin/multiplex/index.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/master.js" path="plugin/multiplex/master.js"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/master.min.js" path="plugin/multiplex/master.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/multiplex/master.min.js.map" path="plugin/multiplex/master.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/notes-server/client.js" path="plugin/notes-server/client.js"/>
+                <file localPath="js/libs/reveal.js/plugin/notes-server/client.min.js" path="plugin/notes-server/client.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/notes-server/client.min.js.map" path="plugin/notes-server/client.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/notes-server/index.js" path="plugin/notes-server/index.js"/>
+                <file localPath="js/libs/reveal.js/plugin/notes-server/index.min.js" path="plugin/notes-server/index.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/notes-server/index.min.js.map" path="plugin/notes-server/index.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/notes/notes.js" path="plugin/notes/notes.js"/>
+                <file localPath="js/libs/reveal.js/plugin/notes/notes.min.js" path="plugin/notes/notes.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/notes/notes.min.js.map" path="plugin/notes/notes.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/print-pdf/print-pdf.js" path="plugin/print-pdf/print-pdf.js"/>
+                <file localPath="js/libs/reveal.js/plugin/print-pdf/print-pdf.min.js" path="plugin/print-pdf/print-pdf.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/print-pdf/print-pdf.min.js.map" path="plugin/print-pdf/print-pdf.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/search/search.js" path="plugin/search/search.js"/>
+                <file localPath="js/libs/reveal.js/plugin/search/search.min.js" path="plugin/search/search.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/search/search.min.js.map" path="plugin/search/search.min.js.map"/>
+                <file localPath="js/libs/reveal.js/plugin/zoom-js/zoom.js" path="plugin/zoom-js/zoom.js"/>
+                <file localPath="js/libs/reveal.js/plugin/zoom-js/zoom.min.js" path="plugin/zoom-js/zoom.min.js"/>
+                <file localPath="js/libs/reveal.js/plugin/zoom-js/zoom.min.js.map" path="plugin/zoom-js/zoom.min.js.map"/>
+            </library>
+        </libraries>
+    </configuration>
+</project>
