@@ -2,7 +2,7 @@
 
 
 
-These links and info for Author only (or for you too I am only text):
+These links and info for Author only (or for you too I am only text):\
 Learn It All
 
 https://github.com/search?p=5&q=git+lessons&type=Repositories
