@@ -7,7 +7,7 @@ Learn It All
 
 https://github.com/search?p=5&q=git+lessons&type=Repositories
 
-<https://github.com/erdavenport/git-lessons>
+https://github.com/erdavenport/git-lessons
 https://github.com/josezilla/CL_and_Git
 https://github.com/wkearn/studygroup-git/tree/master/lessons
 https://github.com/uwescience/git-intermediate
