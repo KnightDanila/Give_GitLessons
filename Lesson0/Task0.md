@@ -1,12 +1,7 @@
 # GitLessons
 
 
-<<<<<<< HEAD
 These links and info for Author only (or for you too I am only text):<br>
-=======
-
-These links and info for Author only (or for you too I am only text):\
->>>>>>> 6cba60dead14e096e22ce5786ea2ffcaab391a32
 Learn It All
 
 https://github.com/search?p=5&q=git+lessons&type=Repositories
