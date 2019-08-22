@@ -4,7 +4,7 @@ Install the software
 
 ## Software
 >## <span style="background-color:yellow">Git</span>
-https://git-scm.com/downloads
+>https://git-scm.com/downloads
 
 ---
 
