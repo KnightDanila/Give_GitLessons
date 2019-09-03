@@ -17,3 +17,7 @@ https://github.com/Make-School-Courses/Core-Git-Branching
 https://github.com/Open-Up/openup2018_01-01  
 
 https://stackoverflow.com/questions/12373733/staging-deleted-files
+
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax  
+### vi
+https://docs.altlinux.org/ru-RU/archive/2.3/html-single/junior/alt-docs-extras-linuxnovice/ch02s10.html
