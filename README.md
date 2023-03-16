@@ -1,7 +1,16 @@
 # GitLessons
 
+## Online git interactive lessons:
+https://learngitbranching.js.org/?locale=ru_RU
 
+## Vi & Vim
+The difference:  
+* Vi - old
+* Vim - new version of Vi also known as Vi Improved
 
+https://docs.altlinux.org/ru-RU/archive/2.3/html-single/junior/alt-docs-extras-linuxnovice/ch02s10.html
+
+## Links
 These links and info for Author only (or for you too I am only a text not a cop):  
 Learn It All
 
@@ -19,5 +28,6 @@ https://github.com/Open-Up/openup2018_01-01
 https://stackoverflow.com/questions/12373733/staging-deleted-files
 
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax  
-### vi
-https://docs.altlinux.org/ru-RU/archive/2.3/html-single/junior/alt-docs-extras-linuxnovice/ch02s10.html
+
+## Credits. Improved and approved by:
+Andrii Derhach - https://github.com/pacifi5t  
